@@ -1,0 +1,9 @@
+c:\users\patri\documents\visual studio 2015\Projects\GUI_Interpreter\GUI_Interpreter\bin\Debug\GUI_Interpreter.exe.config
+C:\Users\Patri\documents\visual studio 2015\Projects\GUI_Interpreter\GUI_Interpreter\bin\Debug\GUI_Interpreter.exe
+C:\Users\Patri\documents\visual studio 2015\Projects\GUI_Interpreter\GUI_Interpreter\bin\Debug\GUI_Interpreter.pdb
+C:\Users\Patri\documents\visual studio 2015\Projects\GUI_Interpreter\GUI_Interpreter\obj\Debug\GUI_Interpreter.csprojResolveAssemblyReference.cache
+C:\Users\Patri\documents\visual studio 2015\Projects\GUI_Interpreter\GUI_Interpreter\obj\Debug\GUI_Interpreter.Properties.Resources.resources
+C:\Users\Patri\documents\visual studio 2015\Projects\GUI_Interpreter\GUI_Interpreter\obj\Debug\GUI_Interpreter.csproj.GenerateResource.Cache
+C:\Users\Patri\documents\visual studio 2015\Projects\GUI_Interpreter\GUI_Interpreter\obj\Debug\GUI_Interpreter.exe
+C:\Users\Patri\documents\visual studio 2015\Projects\GUI_Interpreter\GUI_Interpreter\obj\Debug\GUI_Interpreter.pdb
+C:\Users\Patri\documents\visual studio 2015\Projects\GUI_Interpreter\GUI_Interpreter\obj\Debug\GUI_Interpreter.MainWindow.resources
